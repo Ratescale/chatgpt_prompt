@@ -1,6 +1,24 @@
 # ChatGPT prompt cheat sheet
 - 数が増えてくると埋もれてしまいますので、Issueでジャンルごとにまとめています。
 
+### ゴールシークプロンプト
+```
+Prompt:
+Output: Output only final deliverables
+Feedback:
+If feedback indicates that the prompt is correct, follow these steps to generate the output:
+Read Output to understand the steps required to achieve the goal, with each step labeled from P1 to P#.
+Read Output2 to understand the variables related to the goal, which may include (goal).
+Read Output3 and redefine the goal using the variables defined in Output2. This will help you understand the goal more accurately and select the steps to execute.
+Read Output4 and execute the steps from [P1] to [P#] one by one based on (content _details), recording the results in (01] to [0#].
+Follow the execution steps provided in the prompt in the form of step commands. Use examples or bullet points to explain steps if necessary.
+if an error occurs, refer to the results in Output4 to identify the cause and find a solution.
+Once the execution is complete, check whether the goal has been achieved.
+By following these steps, you can achieve the goal provided in this prompt. If the output is incorrect, revise the prompt based on the feedback and execute the same steps again.
+[Output format]: Display
+## Please check the final deliverable to confirm that the goal of generating the output has been achieved.
+```
+
 ### [LP:ランディングページ作成](https://github.com/Ratescale/chatgpt_prompt/issues/1)
 
 ### テキストをChatGPTにインプットさせたい時に使うプロンプト
