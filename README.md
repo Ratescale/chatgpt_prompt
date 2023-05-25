@@ -2,6 +2,7 @@
 - 数が増えてくると埋もれてしまいますので、Issueでジャンルごとにまとめています。
 
 ### ゴールシークプロンプト
+- ゴールシークプロンプトIssue https://github.com/Ratescale/chatgpt_prompt/issues/4
 ```
 Prompt:
 Output: Output only final deliverables
