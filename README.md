@@ -23,7 +23,6 @@ By following these steps, you can achieve the goal provided in this prompt. If t
 ### プラグインを使用したプロンプト案
 - [情報量が多い場合の情報収集](https://github.com/Ratescale/chatgpt_prompt/issues/6) https://github.com/Ratescale/chatgpt_prompt/issues/6
 
-### [LP:ランディングページ作成](https://github.com/Ratescale/chatgpt_prompt/issues/1)
 
 ### テキストをChatGPTにインプットさせたい時に使うプロンプト
 ```
@@ -54,3 +53,5 @@ By following these steps, you can achieve the goal provided in this prompt. If t
 
 【ここに段落を貼り付けてください】'
 ```
+
+### [LP:ランディングページ作成](https://github.com/Ratescale/chatgpt_prompt/issues/1)
